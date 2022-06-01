@@ -1,5 +1,4 @@
-# MLB-app
-Bar's Tool MLB Simulation
+# Bar's Tool MLB Simulation
 
 Collaborated Fullstack web app with Max Calkin (#100Devs Cohort) where you type in the names of your favorite players, when you click the button it searches the MLB stats API. Then a a very simple math formula  returns a score (usually between 500-1200) based on the player's OPS.  After each team has 9 players, the game ends and whoever's team has more points wins.
 
