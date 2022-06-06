@@ -12,5 +12,5 @@ Collaborated with Max Calkin (#100Devs Cohort) by providing CSS styling to the F
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
+**Tech used:** HTML, CSS, JavaScript
 
